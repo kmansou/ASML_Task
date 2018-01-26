@@ -1,0 +1,10 @@
+c:\Build\ASML_Task\bin\Release\SumOfMultiple.dll
+c:\Build\ASML_Task\bin\Release\SumOfMultiple.pdb
+c:\Build\ASML_Task\source\SumOfMultiple\obj\Release\SumOfMultiple.csprojResolveAssemblyReference.cache
+c:\Build\ASML_Task\source\SumOfMultiple\obj\Release\SumOfMultiple.dll
+c:\Build\ASML_Task\source\SumOfMultiple\obj\Release\SumOfMultiple.pdb
+C:\Users\KarimMansour\Documents\GitHub\ASML_Task\bin\SumOfMultiple.dll
+C:\Users\KarimMansour\Documents\GitHub\ASML_Task\bin\SumOfMultiple.pdb
+C:\Users\KarimMansour\Documents\GitHub\ASML_Task\source\SumOfMultiple\obj\Release\SumOfMultiple.csprojResolveAssemblyReference.cache
+C:\Users\KarimMansour\Documents\GitHub\ASML_Task\source\SumOfMultiple\obj\Release\SumOfMultiple.dll
+C:\Users\KarimMansour\Documents\GitHub\ASML_Task\source\SumOfMultiple\obj\Release\SumOfMultiple.pdb

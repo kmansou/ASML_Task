@@ -1,0 +1,10 @@
+c:\Build\ASML_Task\bin\Release\SequenceAnalysis.dll
+c:\Build\ASML_Task\bin\Release\SequenceAnalysis.pdb
+c:\Build\ASML_Task\source\SequenceAnalysis\obj\Release\SequenceAnalysis.csprojResolveAssemblyReference.cache
+c:\Build\ASML_Task\source\SequenceAnalysis\obj\Release\SequenceAnalysis.dll
+c:\Build\ASML_Task\source\SequenceAnalysis\obj\Release\SequenceAnalysis.pdb
+C:\Users\KarimMansour\Documents\GitHub\ASML_Task\bin\SequenceAnalysis.dll
+C:\Users\KarimMansour\Documents\GitHub\ASML_Task\bin\SequenceAnalysis.pdb
+C:\Users\KarimMansour\Documents\GitHub\ASML_Task\source\SequenceAnalysis\obj\Release\SequenceAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\KarimMansour\Documents\GitHub\ASML_Task\source\SequenceAnalysis\obj\Release\SequenceAnalysis.dll
+C:\Users\KarimMansour\Documents\GitHub\ASML_Task\source\SequenceAnalysis\obj\Release\SequenceAnalysis.pdb

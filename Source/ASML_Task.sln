@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{1E6B90D8-1641-4850-9C81-484B60149F08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfMultiple", "SumOfMultiple\SumOfMultiple.csproj", "{DB03E367-9279-46FA-935C-C30FE95AC194}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfMultiple.Core", "SumOfMultiple.Core\SumOfMultiple.Core.csproj", "{A061D0A4-9904-40A0-BD90-F6EC0205B8E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASML_Task.UnitTests", "ASML_Task.UnitTests\ASML_Task.UnitTests.csproj", "{2B91E5EB-AA55-4731-B1FC-8984A801734E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceAnalysis.Core", "SequenceAnalysis.Core\SequenceAnalysis.Core.csproj", "{447D4EA5-CF5B-4195-AB9B-A251CA456A4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceAnalysis", "SequenceAnalysis\SequenceAnalysis.csproj", "{F5369D2B-382D-4998-820C-FA5FCBA22B36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Runner", "Runner\Runner.csproj", "{1982FA70-50EC-4CA0-BA96-DCC9249BC7BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB03E367-9279-46FA-935C-C30FE95AC194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB03E367-9279-46FA-935C-C30FE95AC194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB03E367-9279-46FA-935C-C30FE95AC194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB03E367-9279-46FA-935C-C30FE95AC194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A061D0A4-9904-40A0-BD90-F6EC0205B8E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A061D0A4-9904-40A0-BD90-F6EC0205B8E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A061D0A4-9904-40A0-BD90-F6EC0205B8E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A061D0A4-9904-40A0-BD90-F6EC0205B8E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B91E5EB-AA55-4731-B1FC-8984A801734E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B91E5EB-AA55-4731-B1FC-8984A801734E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B91E5EB-AA55-4731-B1FC-8984A801734E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B91E5EB-AA55-4731-B1FC-8984A801734E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{447D4EA5-CF5B-4195-AB9B-A251CA456A4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{447D4EA5-CF5B-4195-AB9B-A251CA456A4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{447D4EA5-CF5B-4195-AB9B-A251CA456A4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{447D4EA5-CF5B-4195-AB9B-A251CA456A4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5369D2B-382D-4998-820C-FA5FCBA22B36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5369D2B-382D-4998-820C-FA5FCBA22B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5369D2B-382D-4998-820C-FA5FCBA22B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5369D2B-382D-4998-820C-FA5FCBA22B36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1982FA70-50EC-4CA0-BA96-DCC9249BC7BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1982FA70-50EC-4CA0-BA96-DCC9249BC7BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1982FA70-50EC-4CA0-BA96-DCC9249BC7BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1982FA70-50EC-4CA0-BA96-DCC9249BC7BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2B91E5EB-AA55-4731-B1FC-8984A801734E} = {1E6B90D8-1641-4850-9C81-484B60149F08}
+	EndGlobalSection
+EndGlobal

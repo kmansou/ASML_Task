@@ -1,0 +1,8 @@
+c:\Build\ASML_Task\bin\Release\SequenceAnalysis.Core.dll
+c:\Build\ASML_Task\bin\Release\SequenceAnalysis.Core.pdb
+c:\Build\ASML_Task\source\SequenceAnalysis.Core\obj\Release\SequenceAnalysis.Core.dll
+c:\Build\ASML_Task\source\SequenceAnalysis.Core\obj\Release\SequenceAnalysis.Core.pdb
+C:\Users\KarimMansour\Documents\GitHub\ASML_Task\bin\SequenceAnalysis.Core.dll
+C:\Users\KarimMansour\Documents\GitHub\ASML_Task\bin\SequenceAnalysis.Core.pdb
+C:\Users\KarimMansour\Documents\GitHub\ASML_Task\source\SequenceAnalysis.Core\obj\Release\SequenceAnalysis.Core.dll
+C:\Users\KarimMansour\Documents\GitHub\ASML_Task\source\SequenceAnalysis.Core\obj\Release\SequenceAnalysis.Core.pdb

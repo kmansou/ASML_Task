@@ -1,0 +1,24 @@
+My Name is KARIM MANSOUR, I'm a SOFTWARE Engineer with 5 years of experience, TWENTY-SIX YEARS old, Egyptian Guatemalan.
+I've graduated from SYSTEMS & BIOMEDICAL Engineering, Cairo University, Egypt.
+While I was undergrad I found my passion towards software engineering, So, I started to DEVELOP my self in this field.
+Then after graduation I seeked a job in ths field and I joined MedStreaming, health care system provider, as a Customization Developer.
+MedStreaming HAS a lot of products in Healthcare like CVIS, CardioVascular Information System, Billing and Analytics. Our main product is CVIS.
+I'm working in CVIS, CVIS is a cusomizable platform, that consistes of many engines like (worksheet, calculations, language and report gen)
+I started as a cusomization dev who customizes worksheet UI and report templates to reflect this ui.
+THEN I became a software dev engineer who mentains existing features and engines, emplements enhancements and new features.
+then I joined CLINICAL TEAM who is responsible for CVIS platform infrastructure and provide 2nd line support when the case esclated and needs a dev point of view. This helped me understand the infrastructure and the business more.
+There was a performance problem in our platform that made the Exam Viewer takes about 20 seconds to open and report generation was taking about 15 seconds.
+I did analyse the code and calculted TIME COMPLEXTIES for the main functions to determine the root cause of this performance issue. 
+there was a lot of legacy code in these areas
+I starated to RE-STRUCTURE these components, used data structure like HashSet and HashMap.
+Also I used Devide and conquer to devide the main component into smaller COMPONETS and made them load lazily.
+Currently the exam viewer is taking 5-7 seconds to open and report generation is taking 3-6 seconds
+The company recognized my efforts and I've promoted to be a Tech Lead
+Now I'm a tech lead who is leading a team of 5.
+I'm open minded who likes to socialize and explore new cultures.
+I was born in GUATEMALA and moved to Mexico then Back to EGYPT, Then I traveled to AbuDhabi, United Arab Emirates
+Also I've visited Mumbai, India, KSA. Amsterdam Netherlands, Seattle, Redmond, Los Angeles and San diago in US
+Breifly, I traveled to many countries east and west and that made me accept different cultures and know how to deal with difference.
+NOW, I Live in Cairo, Married and have one kid :)
+CURRENTLY I'm Testing Sequence analysis with a statement more than 2500 characters that has words with upper case letters and may contain specail charactes inside this word like ([dash], [dot] and [coma]) also it contains words without any letters at all
+THAT'S IT!!!!
